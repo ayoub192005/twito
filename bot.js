@@ -17,4 +17,4 @@ var writeTweet = function() {
 
 writeTweet()
 
-setInterval(writeTweet, 30000);
+setInterval(writeTweet, 150000);
